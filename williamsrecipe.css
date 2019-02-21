@@ -1,0 +1,17 @@
+/*
+/* Sarah Williams
+* February 22, 2019 
+* 01 Project - Recipe, create a page that displays a recipe
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body properties here */
+
+body {
+    background-color: lavender;
+}
